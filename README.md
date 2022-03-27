@@ -1,13 +1,33 @@
 ### Latest projects I've been publicly working on
 
+#### Wikimedia
+
 * [socksfinder](https://github.com/Arkanosis/socksfinder), a search engine for sock puppets on Wikimedia projects ([website](https://socksfinder.toolforge.org/))
-* [bamrescue](https://github.com/Arkanosis/bamrescue), an utility to check BAM files for corruption and repair them ([website](https://bamrescue.arkanosis.net/))
 * [wmrc](https://github.com/Arkanosis/wmrc), an Android app displaying changes on Wikimedia projects in real time ([website](https://wmrc.arkanosis.net/))
+* [arkbot-rs](https://github.com/Arkanosis/arkbot-rs), a bot to help with maintainance on the French Wikipedia and Wikidata
+
+#### Bioinformatics
+
+* [bamrescue](https://github.com/Arkanosis/bamrescue), an utility to check BAM files for corruption and repair them ([website](https://bamrescue.arkanosis.net/))
+
+#### Software performance
+
+* [JPDH](https://github.com/Arkanosis/JPDH), a Windows Performance Data Helper library for Java ([website](https://jpdh.arkanosis.com))
+
+#### Utilities
+
 * [rssht](https://github.com/Arkanosis/rssht), a reverse SSH tunnel daemon, with optional SSH over HTTP ([website](https://rssht.readthedocs.io/))
 * [tifoto](https://github.com/Arkanosis/tifoto), an utility to mass-resize photos and videos for emails
-* [JPDH](https://github.com/Arkanosis/JPDH), a Windows Performance Data Helper library for Java ([website](https://jpdh.arkanosis.com))
-* [arkbot-rs](https://github.com/Arkanosis/arkbot-rs), a bot to help with maintainance on the French Wikipedia and Wikidata
-* [awesome-aoe2](https://github.com/Arkanosis/awesome-aoe2), [AoE2 on Linux](https://github.com/ArkanosisNet/aoe2.arkanosis.net/tree/master/linux), [Civpicker](https://github.com/ArkanosisNet/aoe2.arkanosis.net/tree/master/civpicker), resources around the Age of Empires II real-time strategy game ([Civpicker website](https://aoe2.arkanosis.net/civpicker/), [AoE2 on Linux website](https://aoe2.arkanosis.net/linux/))
+
+#### Hardware
+
 * [OpenRipStation](https://github.com/Arkanosis/OpenRipStation), an open-design audio CD ripping station ([website](https://ors.arkanosis.net/))
+
+#### Age of Empires II
+
+* [awesome-aoe2](https://github.com/Arkanosis/awesome-aoe2), an awesome list of resources for the Age of Empires II real-time strategy video-game
+* [AoE2 on Linux](https://github.com/ArkanosisNet/aoe2.arkanosis.net/tree/master/linux), a documentation for playing on Linux ([website](https://aoe2.arkanosis.net/linux/))
+* [Civpicker](https://github.com/ArkanosisNet/aoe2.arkanosis.net/tree/master/civpicker), a tool to chose a civilization for a given unit composition ([website](https://aoe2.arkanosis.net/civpicker/))
+
 
 Most of my projects are released under the ISC license. I'm mostly using Rust and Python these days, though I'm still writing code in a lot of other languages.
