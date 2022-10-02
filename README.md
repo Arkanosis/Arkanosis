@@ -17,6 +17,7 @@
 #### Utilities
 
 * [rssht](https://github.com/Arkanosis/rssht), a reverse SSH tunnel daemon, with optional SSH over HTTP ([website](https://rssht.readthedocs.io/))
+* [smhkd](https://github.com/Arkanosis/smhkd), a simple MIDI hotkontrol daemon, inspired by [sxhkd](https://github.com/baskerville/sxhkd) but for ALSA MIDI rather than X
 * [tifoto](https://github.com/Arkanosis/tifoto), an utility to mass-resize photos and videos for emails
 
 #### Hardware
@@ -28,6 +29,6 @@
 * [awesome-aoe2](https://github.com/Arkanosis/awesome-aoe2), an awesome list of resources for the Age of Empires II real-time strategy video-game
 * [AoE2 on Linux](https://github.com/ArkanosisNet/aoe2.arkanosis.net/tree/master/linux), a documentation for playing on Linux ([website](https://aoe2.arkanosis.net/linux/))
 * [Civpicker](https://github.com/ArkanosisNet/aoe2.arkanosis.net/tree/master/civpicker), a tool to chose a civilization for a given unit composition ([website](https://aoe2.arkanosis.net/civpicker/))
-
+* [MultiProfile](https://github.com/ArkanosisNet/aoe2.arkanosis.net/tree/master/mp), a simple page that links to all profiles (aoe2.net, Insights, Nexus…) of a list of players ([website](https://aoe2.arkanosis.net/mp/))
 
 Most of my projects are released under the ISC license. I'm mostly using Rust and Python these days, though I'm still writing code in a lot of other languages.
