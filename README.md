@@ -19,6 +19,7 @@
 * [rssht](https://github.com/Arkanosis/rssht), a reverse SSH tunnel daemon, with optional SSH over HTTP ([website](https://rssht.readthedocs.io/))
 * [smhkd](https://github.com/Arkanosis/smhkd), a simple MIDI hotkontrol daemon, inspired by [sxhkd](https://github.com/baskerville/sxhkd) but for ALSA MIDI rather than X
 * [tifoto](https://github.com/Arkanosis/tifoto), an utility to mass-resize photos and videos for emails
+* [treestats](https://github.com/Arkanosis/treestats), an utility to produce statistics about a directory tree
 
 #### Hardware
 
