@@ -31,5 +31,6 @@
 * [AoE2 on Linux](https://github.com/ArkanosisNet/aoe2.arkanosis.net/tree/master/linux), a documentation for playing on Linux ([website](https://aoe2.arkanosis.net/linux/))
 * [Civpicker](https://github.com/ArkanosisNet/aoe2.arkanosis.net/tree/master/civpicker), a tool to chose a civilization for a given unit composition ([website](https://aoe2.arkanosis.net/civpicker/))
 * [MultiProfile](https://github.com/ArkanosisNet/aoe2.arkanosis.net/tree/master/mp), a simple page that links to all profiles (aoe2.net, Insights, Nexus…) of a list of players ([website](https://aoe2.arkanosis.net/mp/))
+* [PerfectTime](https://github.com/ArkanosisNet/aoe2.arkanosis.net/tree/master/pt), a perfect uptime calculator ([website](https://aoe2.arkanosis.net/pt/))
 
 Most of my projects are released under the ISC license. I'm mostly using Rust and Python these days, though I'm still writing code in a lot of other languages.
